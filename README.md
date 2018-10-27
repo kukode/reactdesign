@@ -1,2 +1,0 @@
-# reactdesign
-example design
